@@ -1,4 +1,4 @@
-# Serverless Task CRUD API on AWS
+# Serverless Task CRUD API on AWS 
 
 A small serverless REST API for creating and managing tasks, built by hand in the AWS console as my first barebones AWS project. Following a youtube video step by step but adding in my own twists and images. Requests flow from API Gateway to a Lambda function, which reads and writes tasks in DynamoDB.
 
