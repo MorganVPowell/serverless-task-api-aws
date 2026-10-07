@@ -4,7 +4,7 @@ A small serverless REST API for creating and managing tasks, built by hand in th
 
 ## Architecture
 
-![X-Ray trace map](screenshots/xray-trace-map.png)
+![X-Ray trace map](xray-trace-map.png)
 
 ```
 Client -> API Gateway (REST API, "production" stage) -> Lambda (TaskCRUDHandler) -> DynamoDB
